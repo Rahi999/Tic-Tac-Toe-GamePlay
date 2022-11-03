@@ -22,3 +22,5 @@
  <li>Player2 Will Win If player1 Will be able to manage 3 "O" in the Same Row/Column/Diagonal</li>
  <li>After Every Winning Users Can Restart The Game</li>
 </ul>
+<h3>Contributor : </h3>
+<ul><li>Rahim Ansari(Individual).</li></ul>
