@@ -26,4 +26,4 @@
 <ul><li>Rahim Ansari(Individual).</li></ul>
 
 <img align="center" src="https://64.media.tumblr.com/d0635fa4e4bf417b33f24bd481c21f88/tumblr_ppcabrYCWy1ue08b9o1_540.gif" width="300" />
-<h1 align="center">THANK YOU For Visiting....</h1>
+<h1 align="center">THANK YOU For Visiting...</h1>
